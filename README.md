@@ -7,9 +7,7 @@
 <p align="center">🔗 youtube: <a href="https://www.youtube.com/@RTX_CPM" target="_blank">ＲＴＸ.ｅｘｅ🖇️📌</a>
 
 
-Getting Started
-First, run the development server:
-
+# Getting Started
 npm run dev
 # or
 yarn dev
