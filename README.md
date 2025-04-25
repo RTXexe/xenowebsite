@@ -1,4 +1,4 @@
-# xenowebsite
+# xeno.lol
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
 
@@ -7,7 +7,16 @@
 <p align="center">🔗 youtube: <a href="https://www.youtube.com/@RTX_CPM" target="_blank">ＲＴＸ.ｅｘｅ🖇️📌</a>
 
 
+Getting Started
+First, run the development server:
 
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
 
 
 
